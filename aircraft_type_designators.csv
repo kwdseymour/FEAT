@@ -1,0 +1,134 @@
+,ac_code_iata,ac_code_icao,bada_model,ac_name_oag,ac_name_ps
+0,A40,A140,A140,Antonov AN-140,Antonov An-140
+1,A81,A148,A148,Antonov An148-100,Antonov An-148
+2,A58,A158,A158,Antonov An-158,Antonov An-158
+3,32N,A20N,A20N,Airbus A320neo,Airbus A320neo
+4,32Q,A21N,A21N,Airbus A321neo,Airbus A321neo
+5,AB6,A306,A306,Airbus A300-600 Passenger,Airbus A300-600
+6,AB4,A30B,A30B,Airbus A300B2/B4 Passenger,Airbus A300B4
+7,313,A310,A310,Airbus A310-300 Passenger,Airbus A310-300
+8,318,A318,A318,Airbus A318,Airbus A318-100
+9,319,A319,A319,Airbus A319,Airbus A319-100
+10,320,A320,A320,Airbus A320 (with and without Sharklets),Airbus A320-200
+11,321,A321,A321,Airbus A321 (with and without Sharklets),Airbus A321-200
+12,332,A332,A332,Airbus A330-200,Airbus A330-200
+13,333,A333,A333,Airbus A330-300,Airbus A330-300
+14,339,A339,A339,Airbus A330-900neo,Airbus A330-900
+15,342,A342,A342,Airbus A340-200,Airbus A340-200
+16,343,A343,A343,Airbus A340-300,Airbus A340-300
+17,345,A345,A345,Airbus A340-500,Airbus A340-500
+18,346,A346,A346,Airbus A340-600,Airbus A340-600
+19,359,A359,A359,Airbus A350-900,Airbus A350-900
+20,351,A35K,A35K,Airbus A350-1000,Airbus A350-1000
+21,388,A388,A388,Airbus A380-800 Passenger,Airbus A380-800
+22,C27,AJ27,A158,Comac ARJ21-700,COMAC ARJ21-700
+23,AN4,AN24,AN24,Antonov AN-24/ Xian Yunshuji Y7 /Ma60,
+24,A38,AN38,AN38,Antonov AN-38,
+25,AT4,AT43,AT43,ATR 42-300 /320,ATR 42
+26,AT7,AT72,AT72,ATR 72,ATR 72
+27,ATP,ATP,ATP,BAe ATP,
+28,BE1,B190,B190,Beechcraft 1900 Airliner,Beechcraft 1900
+29,7M8,B38M,B38M,Boeing 737MAX 8 Passenger,Boeing 737 MAX 8
+30,7M9,B39M,B39M,Boeing 737MAX 9 Passenger,Boeing 737 MAX 9
+31,141,B461,B462,BAe 146-100 Passenger,British Aerospace 146-100
+32,142,B462,B462,BAe 146-200 Passenger,British Aerospace 146-200
+33,143,B463,B463,BAe 146-300 Passenger,British Aerospace 146-300
+34,717,B712,B712,Boeing 717-200,Boeing 717-200
+35,722,B722,B722,Boeing 727-200 Passenger,Boeing 727-200
+36,73L,B732,B732,Boeing 737-200 (Mixed Configuration),Boeing 737-200
+37,733,B733,B733,"Boeing 737-300 (Pax and Mixed Config, with and without winglets)",Boeing 737-300
+38,734,B734,B734,Boeing 737-400 (Pax and Mixed Config),Boeing 737-400
+39,735,B735,B735,Boeing 737-500 Passenger (with and without winglets),Boeing 737-500
+40,736,B736,B736,Boeing 737-600 Passenger,Boeing 737-600
+41,73G,B737,B737,"Boeing 737-700 (Pax and Mixed Config, with and without winglets)",Boeing 737-700
+42,738,B738,B738,Boeing 737-800 Passenger (with and without winglets),Boeing 737-800
+43,739,B739,B739,Boeing 737-900 Passenger (with and without winglets),Boeing 737-900
+44,744,B744,B744,"Boeing 747-400 (Pax and Mixed Config, with and without winglets)",Boeing 747-400
+45,74H,B748,B748,Boeing 747-8 Passenger,Boeing 747-8
+46,752,B752,B752,Boeing 757-200 Passenger (with and without winglets),Boeing 757-200
+47,753,B753,B753,Boeing 757-300 Passenger (with and without winglets),Boeing 757-300
+48,762,B762,B762,Boeing 767-200 Passenger,Boeing 767-200
+49,763,B763,B763,Boeing 767-300 Passenger (with and without winglets),Boeing 767-300
+50,764,B764,B764,Boeing 767-400 Passenger,Boeing 767-400
+51,772,B772,B772,Boeing 777-200/200ER Passenger,Boeing 777-200 NormalRange
+52,773,B773,B773,Boeing 777-300 Passenger,Boeing 777-300 NormalRange
+53,77L,B77L,B77L,Boeing 777-200LR,Boeing 777-200 LongRange
+54,77W,B77W,B77W,Boeing 777-300ER Passenger,Boeing 777-300 ExtendedRange
+55,788,B788,B788,Boeing 787-8,Boeing 787-8 Dreamliner
+56,789,B789,B789,Boeing 787-9,Boeing 787-9 Dreamliner
+57,781,B78X,B78X,Boeing 787-10,Boeing 787-10 Dreamliner
+58,CS1,BCS1,F100,Airbus A220-100,Airbus A220-100
+59,CS3,BCS3,B735,Airbus A220-300,Airbus A220-300
+60,BEC,BE20,BE20,Beechcraft C99 Airliner,
+61,BE4,BE40,BE40,Hawker 400 Beechjet/400A/400XP/400T,
+62,BE2,BE55,PA27,Beechcraft-Lght Acft-Twin Piston Engine,
+63,BNI,BN2P,DA42,BN BN-2a /BN-2b Islander,
+64,CNA,C172,C172,Cessna (Light Aircraft),
+65,CNF,C208,C208,Cessna 208B Caravan/ DHvilld-Bombardier DHC3 Otter,
+66,CNJ,C25A,C25A,Cessna Citation,
+67,CN2,C310,C310,Cessna Light Acft (Twin piston engines),
+68,CJ8,C680,C680,Cessna 680 Citation,
+69,CR1,CRJ1,CRJ1,Canadair Regional Jet 100,Bombardier CRJ-100
+70,CR2,CRJ2,CRJ2,Canadair Regional Jet 200,Bombardier CRJ-200
+71,CR7,CRJ7,CRJ9,Canadair Regional Jet CRJ-700/705,Bombardier CRJ-700
+72,CR9,CRJ9,CRJ9,Canadair Regional Jet 900,Bombardier CRJ-900
+73,CRK,CRJX,CRJX,Canadair (Bombardier) Regional Jet 1000,Bombardier CRJ-1000
+74,CV5,CVLT,ATP,Convair 580 Passenger,
+75,D28,D228,D228,Fairchild Dornier 228,
+76,D38,D328,D328,Fairchild Dornier 328-100,Dornier Do-328
+77,DC9,DC94,DC94,Boeing (douglas) DC-9 Passenger,McDonnell Douglas DC-9
+78,DH1,DH8A,DH8A,DHvilld-Bombardier DHC8-100 Dsh 8/8Q,De Havilland Canada DHC-8-100
+79,DH2,DH8B,DH8C,DHvilld-Bombardier DHC8-200 Dsh 8/8Q,De Havilland Canada DHC-8-200
+80,DH3,DH8C,DH8C,DHvilld-Bombardier DHC8-300 Dsh 8/8Q,De Havilland Canada DHC-8-300
+81,DH4,DH8D,DH8D,DHvilld-Bombardier DHC8 Dsh 8-400/8Q,De Havilland Canada DHC-8-400
+82,DHP,DHC2,C182,DHvilld-Bombardier DHC2 Bvr,
+83,DHL,DHC3,C182,DHvilld-Bombardier DHC3 Tb Otter,
+84,DHT,DHC6,BE99,DHvilld-Bombardier DHC6 T/Otter / BN BN-2a Mk.iii Trislander,De Havilland Canada DHC-6 Twin Otter
+85,DH7,DHC7,AT72,DHvilld-Bombardier DHC7 Dsh 7,
+86,DHD,DOVE,PA31,British Aerospace(De Havilland)104 Dove,
+87,EMB,E110,D228,Embraer 110 Bandeirante,
+88,EM2,E120,E120,Embraer 120 Brasilia,Embraer EMB-120 Brasilia
+89,ER3,E135,E135,Embraer RJ135/145,Embraer ERJ-135
+90,ER4,E145,E145,Embraer RJ145,Embraer ERJ-145
+91,E70,E170,E170,Embraer 170,Embraer ERJ-170
+92,290,E190,E190,Embraer 190 (E2),Embraer ERJ-190
+93,E95,E195,E195,Embraer 195,Embraer ERJ-195
+94,EP3,E55P,E55P,Embraer EMB-505 Phenom 300,
+95,E7W,E75L,E75L,Embraer 175 (Enhanced Winglets),Embraer ERJ-175 EnhancedWinglets
+96,E75,E75S,E75S,Embraer 175,Embraer ERJ-175 Base
+97,100,F100,F100,Fokker 100,Fokker F100
+98,MA6,F27,F27,Xian Yunshuji Ma-60,
+99,F28,F28,F28,Fokker F28 Fellowship,
+100,CNT,F406,F406,Cessna Light Aircraft (Twin Turboprop,
+101,F50,F50,F50,Fokker 50,Fokker F50
+102,F70,F70,F70,Fokker 70,Fokker F70
+103,GRJ,GLF4,GLF2,Gulfstream Aerospace G/stream 2/3/4/5/6,
+104,GJ5,GLF5,GLF5,Gulfstream Aerospace V (G500/G550),
+105,IL9,IL96,IL96,Ilyushin Il-96 Passenger,Ilyushin Il-96
+106,FRJ,J328,E135,Fairchild Dornier 328jet,Dornier Do-328JET
+107,J31,JS31,JS32,BAe Jetstream 31,
+108,J32,JS32,JS32,BAe Jetstream 32,
+109,J41,JS41,JS41,BAe Jetstream 41,British Aerospace Jetstream 41
+110,L4T,L410,L410,Let 410,
+111,M81,MD81,MD82,Boeing (douglas) MD-81,McDonnell Douglas MD-81
+112,M82,MD82,MD82,Boeing (douglas) MD-82,McDonnell Douglas MD-82
+113,M83,MD83,MD83,Boeing (douglas) MD-83,McDonnell Douglas MD-83
+114,M87,MD87,MD82,Boeing (douglas) MD-87,McDonnell Douglas MD-87
+115,M88,MD88,MD82,Boeing (douglas) MD-88,McDonnell Douglas MD-88
+116,M90,MD90,MD83,Boeing (douglas) MD-90,McDonnell Douglas MD-90
+117,PA1,P28B,C182,Piper (Light Aircraft - Single Piston),
+118,PA2,PA31,PA31,Piper (Light Aircraft - Twin Piston),
+119,PAG,PA46,PA46,Piper (Light Aircraft),
+120,PL2,PC12,PC12,Pilatus PC-12,
+121,AR1,RJ1H,RJ1H,Avro RJ100,British Aerospace Avro RJ100
+122,AR8,RJ85,RJ85,Avro RJ85,British Aerospace Avro RJ85
+123,S20,SB20,SB20,Saab 2000/ Ilyushin IL114,Saab 2000
+124,SF3,SF34,SF34,Saab 340,Saab 340
+125,SU9,SU95,SU95,Sukhoi Superjet 100-95,Sukhoi Superjet 100
+126,SWM,SW4,SW4,Fairchild Sa26 /Sa226 /Sa227 Merlin /Me,
+127,TU3,T134,T134,Tupolev Tu134,
+128,TU5,T154,T154,Tupolev Tu154,Tupolev Tu-154
+129,T20,T204,T204,Tupolev Tu-204/Tu-214,Tupolev Tu-204
+130,YN2,Y12,C208,Harbin Yunshuji Y12,
+131,YK4,YK40,YK40,Yakovlev Yak-40,
+132,YK2,YK42,YK42,Yakovlev Yak-42 /142,Yakovlev Yak-42
